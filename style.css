@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.img1{
+    background-image: url(https://w.wallhaven.cc/full/1p/wallhaven-1py3r1.jpg);
+    width: 200%;
+    height: 80vh;
+    background-repeat: no-repeat;
+}
+.container{
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
